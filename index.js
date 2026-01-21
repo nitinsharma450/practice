@@ -5,6 +5,3 @@ function getName(){
 function getNumber(){
     return 42
 }
-let obj={
-    name:'nitin'
-}
