@@ -1,4 +1,5 @@
 let a=6
+let b=3
 function getName(){
     return 'nitin'
 }
