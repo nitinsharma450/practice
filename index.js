@@ -5,6 +5,9 @@ function getName(){
 function getNumber(){
     return 42
 }
+function getLname(){
+    return 'sharma'
+}
 let obj={
     name:'nitin'
 }
