@@ -6,7 +6,7 @@ function getName(){
 function getNumber(){
     return 42
 }
-function getLname(){
+function getLastName(){
     return 'sharma'
 }
 let obj={
